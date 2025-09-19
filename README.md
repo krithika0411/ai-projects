@@ -19,6 +19,10 @@ Welcome to my portfolio! I'm an engineer transitioning into a data science role,
 🔗 [GitHub Repo](https://github.com/krithika0411/Volume-estimation-of-an-egg-using-MRI-scan)  
 🔍 Summary: Estimating the volume of egg parts - egg yolk, egg white and air cell based on ground truth volume of 60mL 
 
+#### Project 4 : Identify bias between two algorithms that estimates volume of eggs
+🧪 Techniques: Scatter plots, Heatmap visualisation
+🔗 [GitHub Repo](https://github.com/krithika0411/Identify-Bias-given-two-sets-of-volume-estimation-data)  
+🔍 Summary: Identifying bias between two algorithms that estimate volume of eggs given position of eggs in a tray 
 
 ---
 
